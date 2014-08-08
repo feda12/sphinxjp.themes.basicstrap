@@ -481,13 +481,13 @@ div.navbar-inner ul.pull-right li a{
     {% set danger_background_color = "#dd4838" %}
     {% set danger_border_color  = "#dd4838" %}
 
-    {% set warning_color = "#ffffff" %}
+    {% set warning_color = "#fff" %}
     {% set warning_background_color = "#A57300" %}
     {% set warning_border_color  = "#A57300" %}
 
-    {% set note_color = "#ffffff" %}
+    {% set note_color = "#333" %}
     {% set note_background_color = "#dcdcdc" %}
-    {% set note_border_color  = "#40bc9c" %}
+    {% set note_border_color  = "#dcdcdc" %}
 
     {% set hint_color = "#ffffff" %}
     {% set hint_background_color = "#4b99dc" %}

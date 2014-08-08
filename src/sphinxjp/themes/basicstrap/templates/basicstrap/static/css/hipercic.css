@@ -13,7 +13,7 @@
 * General Grey: #DCDCDC 
 */
 
-.note > .highlight, .note > highlight-bash
+.note > .highlight, .note > highlight-bash, .note pre, .note > pre
 {
 	background; red;
 }

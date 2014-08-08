@@ -13,11 +13,6 @@
 * General Grey: #DCDCDC 
 */
 
-.note > .highlight, .note > highlight-bash, .note pre, .note > pre
-{
-	background; red;
-}
-
 .hide-text {
 font:0/0 a;
 color:transparent;

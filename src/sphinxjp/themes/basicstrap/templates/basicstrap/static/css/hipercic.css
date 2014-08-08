@@ -4559,3 +4559,15 @@ color:#fff;
 background-color:#18bc9c;
 }
 }
+
+div.admonition {
+  padding: 8px 35px 8px 0px;
+  margin-bottom: 20px;
+  color: #c09853;
+  text-shadow: none;
+  background-color: #fcf8e3;
+  border: 1px solid #fbeed5;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}

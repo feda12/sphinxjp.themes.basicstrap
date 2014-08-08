@@ -13,6 +13,11 @@
 * General Grey: #DCDCDC 
 */
 
+.highlight
+{
+	background; transparent;
+}
+
 .hide-text {
 font:0/0 a;
 color:transparent;

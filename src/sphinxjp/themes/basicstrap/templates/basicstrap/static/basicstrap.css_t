@@ -471,6 +471,28 @@ div.navbar-inner ul.pull-right li a{
     {% set hint_background_color = "#4b99dc" %}
     {% set hint_border_color  = "#4b99dc" %}
 
+{%- theme_inner_theme_name == 'hipercic' %}
+
+    {% set table_border_color = "#dddddd" %}
+    {% set table_oddrow_color = "#f9f9f9" %}
+    {% set table_hover_color  = "#f5f5f5" %}
+
+    {% set danger_color = "#ffffff" %}
+    {% set danger_background_color = "#dd4838" %}
+    {% set danger_border_color  = "#dd4838" %}
+
+    {% set warning_color = "#ffffff" %}
+    {% set warning_background_color = "#A57300" %}
+    {% set warning_border_color  = "#A57300" %}
+
+    {% set note_color = "#ffffff" %}
+    {% set note_background_color = "#dcdcdc" %}
+    {% set note_border_color  = "#40bc9c" %}
+
+    {% set hint_color = "#ffffff" %}
+    {% set hint_background_color = "#4b99dc" %}
+    {% set hint_border_color  = "#4b99dc" %}
+
 {%- elif theme_inner_theme_name == 'geo-bootstrap' %}
 
 table.docutils {

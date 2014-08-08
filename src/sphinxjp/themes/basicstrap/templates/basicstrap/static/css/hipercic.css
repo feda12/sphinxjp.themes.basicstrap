@@ -15,7 +15,7 @@
 
 .note > .highlight, .note > highlight-bash
 {
-	background; transparent;
+	background; red;
 }
 
 .hide-text {

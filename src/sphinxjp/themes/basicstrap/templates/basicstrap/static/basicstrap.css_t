@@ -449,7 +449,7 @@ div.navbar-inner ul.pull-right li a{
     {% set hint_background_color = "#e7b8d1" %}
     {% set hint_border_color  = "#de9ecb" %}
 
-{%- elif theme_inner_theme_name == 'bootswatch-flatly' or theme_inner_theme_name == 'hipercic' %}
+{%- elif theme_inner_theme_name == 'bootswatch-flatly' %}
 
     {% set table_border_color = "#dddddd" %}
     {% set table_oddrow_color = "#f9f9f9" %}
@@ -471,7 +471,7 @@ div.navbar-inner ul.pull-right li a{
     {% set hint_background_color = "#4b99dc" %}
     {% set hint_border_color  = "#4b99dc" %}
 
-{%- theme_inner_theme_name == 'hipercic' %}
+{%- elif theme_inner_theme_name == 'hipercic' %}
 
     {% set table_border_color = "#dddddd" %}
     {% set table_oddrow_color = "#f9f9f9" %}
